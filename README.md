@@ -1,4 +1,13 @@
-# Understanding-of-Architecture
+# Understanding-of-Architecture of llm part
+大模型时代，应用应该如何架构？本文依然关注“道”层面。同时也是笔者的一个知识迁移过程的一些感悟，先记录后整理。
+
+## WHY
+笔者认为大模型时代应该抛弃一些传统的架构思维，才能充分发挥大模型的作用，而不是机械的用大模型来代替原有系统中的某几项，就算是应用了大模型。显然当前（~2024年5月）大多数同行们还没有这样想。
+
+举一个例子：比如在搜索场景下
+
+
+# Understanding-of-Architecture of biz-arch part
 关于应用架构的一些理解和认知，欢迎交流探讨。本文关注在“道”层面，包括列举的一些例子也是为了逻辑支撑。而对于一些“术”层面的东西，笔者觉得直接参考[CNCF Landscape](https://landscape.cncf.io/)中列举的各种技术学起来就很好。
 
 ## WHY
